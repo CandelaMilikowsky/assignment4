@@ -77,8 +77,9 @@ datasummary(growth +rgdp60 ~ Mean + Median + SD + Min + Max, data = UnrevgrowthS
 
 ```
 
-**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
+**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository.
 
+Julia: There are two tables: one represents the number of countries that experienced revolution and the other that has not. The growth mean for the first one was equal to 1.68 and was smaller than second one 2.46. 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
